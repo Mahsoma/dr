@@ -1,11 +1,14 @@
+
 {
   "name": "heart-clinic",
   "version": "1.0.0",
   "description": "نظام العناية المتكامل لمرضى القلب",
   "main": "server.js",
   "scripts": {
+    "build": "echo 'Build complete'",
     "start": "node server.js"
   },
+  "dependencies": {},
   "engines": {
     "node": ">=18.0.0"
   }
